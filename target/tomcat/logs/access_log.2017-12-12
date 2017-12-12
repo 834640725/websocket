@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:11:52:28 +0800] "GET /websocketDemo/ HTTP/1.1" 304 - http-bio-8080-exec-1 69
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:11:52:28 +0800] "GET /websocketDemo/websocket HTTP/1.1" 101 - http-bio-8080-exec-3 59
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:11:52:39 +0800] "GET /websocketDemo/ HTTP/1.1" 200 2101 http-bio-8080-exec-4 9
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:11:52:39 +0800] "GET /websocketDemo/websocket HTTP/1.1" 101 - http-bio-8080-exec-6 20
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:11:55:27 +0800] "GET /websocketDemo/ HTTP/1.1" 304 - http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:11:55:28 +0800] "GET /websocketDemo/websocket HTTP/1.1" 101 - http-bio-8080-exec-9 2
